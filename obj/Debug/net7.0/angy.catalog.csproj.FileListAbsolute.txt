@@ -1,0 +1,15 @@
+C:\src\angy.catalog\bin\Debug\net7.0\angy.catalog.exe
+C:\src\angy.catalog\bin\Debug\net7.0\angy.catalog.deps.json
+C:\src\angy.catalog\bin\Debug\net7.0\angy.catalog.runtimeconfig.json
+C:\src\angy.catalog\bin\Debug\net7.0\angy.catalog.dll
+C:\src\angy.catalog\bin\Debug\net7.0\angy.catalog.pdb
+C:\src\angy.catalog\obj\Debug\net7.0\angy.catalog.csproj.AssemblyReference.cache
+C:\src\angy.catalog\obj\Debug\net7.0\angy.catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\angy.catalog\obj\Debug\net7.0\angy.catalog.AssemblyInfoInputs.cache
+C:\src\angy.catalog\obj\Debug\net7.0\angy.catalog.AssemblyInfo.cs
+C:\src\angy.catalog\obj\Debug\net7.0\angy.catalog.csproj.CoreCompileInputs.cache
+C:\src\angy.catalog\obj\Debug\net7.0\angy.catalog.dll
+C:\src\angy.catalog\obj\Debug\net7.0\refint\angy.catalog.dll
+C:\src\angy.catalog\obj\Debug\net7.0\angy.catalog.pdb
+C:\src\angy.catalog\obj\Debug\net7.0\angy.catalog.genruntimeconfig.cache
+C:\src\angy.catalog\obj\Debug\net7.0\ref\angy.catalog.dll
